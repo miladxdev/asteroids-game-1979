@@ -1,0 +1,14 @@
+body {
+    background: black;
+}
+
+#container {
+    max-width: 1280px;
+    margin: auto;
+    /* border: 2px solid yellow; */
+}
+
+#canvas {
+    background: black;
+    border: 2px solid white;
+}
